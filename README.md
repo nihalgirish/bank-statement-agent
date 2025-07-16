@@ -33,19 +33,6 @@ GitHub: [@nihalgirish](https://github.com/nihalgirish)
 
 ---
 
-## 🗂 File Structure
-
-BankStatementAgent/
-├── bank_agent_app.py # Main Streamlit application
-├── requirements.txt # Python dependencies
-└── README.md # This file
-
-yaml
-Copy
-Edit
-
----
-
 ## 📁 Sample Data Format
 
 ### CSV Columns Required:
